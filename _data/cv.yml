@@ -1,0 +1,91 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Iram Lamiya Hoque
+    - name: Current Position
+      value: Ph.D. Student, Department of Civil and Environmental Engineering, University of Washington
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D., Geotechnical Engineering with Data Science
+      institution: University of Washington, Seattle, WA, USA
+      year: 2022 - present
+      description:
+        - Advisor - Prof. Brett Maurer, Department of Civil and Environmental Engineering
+    - title: M.Sc., Civil and Geotechnical Engineering
+      institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
+      year: 2017 - 2019
+    - title: B.Sc., Civil Engineering
+      institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
+      year: 2013 - 2017
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Graduate Research Assistant
+      institution: Department of Civil and Environmental Engineering, University of Washington
+      year: 2023 - present
+      description:
+        - Global AI model for coseismic landslide susceptibility and rapid hazard response
+    - title: Graduate Teaching Assistant
+      institution: Department of Civil and Environmental Engineering, University of Washington
+      year: 2024
+    - title: Assistant Professor of Teaching
+      institution: Japan Institute of Disaster Prevention and Urban Safety, BUET, Dhaka, Bangladesh
+      year: 2022
+    - title: Lecturer
+      institution: Japan Institute of Disaster Prevention and Urban Safety, BUET, Dhaka, Bangladesh
+      year: 2021 - 2022
+    - title: Lecturer
+      institution: Department of Civil Engineering, Ahsanullah University of Science and Technology, Dhaka, Bangladesh
+      year: 2018 - 2021
+    - title: Graduate Research Assistant
+      institution: A.K. Khan Container Terminal Project, Department of Civil Engineering, BUET
+      year: 2017 - 2018
+
+- title: Research Experience
+  type: list
+  contents:
+    - <b>Global landslide hazard model</b> - geospatial landslide model using artificial intelligence
+    - <b>Liquefaction analysis</b> - UBC3D-PLM analysis in PLAXIS of a railway track on soft soil
+    - <b>Rail track and soil-structure interaction</b> - multichannel surface-wave testing, FFT analysis of vibration, shear-wave and natural-frequency modeling of soil
+    - <b>Consolidated drained testing</b> - strength of bioengineered soil by triaxial testing
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Machine learning and statistical modeling
+      items:
+        - Supervised and unsupervised learning, large-scale binary classification, feature engineering and selection (RFE, PCA, correlation pruning), calibration, hyperparameter tuning, SHAP explainability. Scalable ML workflows on AWS.
+    - title: Data engineering
+      items:
+        - Automated ETL for geospatial and scientific data in Python; parallel extraction of NASA and Google Earth Engine datasets with Ray and multiprocessing.
+    - title: Geospatial
+      items:
+        - ArcGIS Pro, arcpy, GDAL, rasterio, geopandas, Google Earth Engine; GeoTIFF-based large-scale spatial modeling and remote-sensing integration.
+    - title: Systems
+      items:
+        - Linux HPC (Slurm), containers, Git, GitHub.
+    - title: Geotechnical
+      items:
+        - PLAXIS, AutoCAD; triaxial, shake-table, and dynamic-actuator experiments.
+
+- title: Selected Coursework
+  type: list
+  contents:
+    - Geospatial Data Analysis
+    - Engineering Computing (Python)
+    - Introduction to Machine Learning
+    - Machine Learning for Geospatial Analysis
+
+- title: Honors and Service
+  type: time_table
+  contents:
+    - title: Treasurer, Geo-Institute Graduate Student Society (GIGGS), University of Washington
+      year: 2023 - present
+    - title: Reviewer, Transportation Infrastructure Geotechnology (Springer)
+      year: 2022
+    - title: Dean's List, Faculty of Civil Engineering, BUET
+      year: 2014 - 2017
