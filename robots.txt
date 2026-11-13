@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lamiya20.github.io/sitemap.xml
+Sitemap: https://iramlamiyahoque.github.io/sitemap.xml
